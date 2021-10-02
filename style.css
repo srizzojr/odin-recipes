@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    margin: 1rem auto;
+    width: 85%;
+}
+.recipe-img {
+    object-fit: cover;
+    height: 250px;
+    width: 100%;
+}
